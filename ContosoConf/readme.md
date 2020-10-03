@@ -28,4 +28,6 @@ Insertar código en feedback.js
 
 
 
-DIFICULTAD: No
+DIFICULTAD: No![image-20201003120754327](C:\aa\20480C\Allfiles\Mod12\Labfiles\Starter\Exercise 2\ContosoConf\image-20201003120754327.png)
+
+![image-20201003120842283](C:\aa\20480C\Allfiles\Mod12\Labfiles\Starter\Exercise 2\ContosoConf\image-20201003120842283.png)
